@@ -1,6 +1,6 @@
 # Bender
 
-📻 Bender Tools is an organization which aims to facilitate the research, development, and maintenance of software and hardware projects dedicated to reshaping the technologies used by musicians.
+📻 Bender is an organization which aims to facilitate the development and maintenance of software and hardware projects dedicated to reshaping the technologies used by musicians.
 
 **As of now, our focus rests in three main projects:**
 
